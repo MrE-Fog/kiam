@@ -39,7 +39,7 @@ require (
 	github.com/uswitch/k8sc v0.0.0-20170525133932-475c8175b340
 	github.com/vmg/backoff v1.0.0
 	golang.org/x/net v0.0.0-20190311183353-d8887717615a
-	golang.org/x/sys v0.0.0-20200117145432-59e60aa80a0c // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2 // indirect
 	google.golang.org/grpc v1.27.0
 	google.golang.org/grpc/security/advancedtls v0.0.0-20200204204621-648cf9b00e25
